@@ -1,6 +1,6 @@
 {
     "name": "regctl",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Easily install regctl on macOS, linux, and Windows.",
     "type": "module",
     "exports": {
