@@ -20,7 +20,7 @@
         "docs": "typedoc ./src/lib.ts",
         "format": "prettier --write '**/*.{js,ts,jsx,tsx,json,yml,yaml,md,html}' --ignore-path .gitignore",
         "lint": "eslint .",
-        "postinstall": "node scripts/postinstall.js && node lib/index.js version"
+        "postinstall": "node scripts/postinstall.js && node lib/regctl.js version"
     },
     "keywords": [
         "macos",
